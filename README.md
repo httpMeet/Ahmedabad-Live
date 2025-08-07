@@ -1,10 +1,10 @@
 # Ahmedabad‑Live
 
-A complaint management system built using PHP, JavaScript, HTML, CSS, and Less.
+A complaint management system built using PHP, JavaScript, HTML, CSS.
 
 ## About
 
-**Ahmedabad‑Live** is a web-based complaint management system that enables users to lodge complaints and track their status. The system is developed with a focus on simplicity and urban relevance. :contentReference[oaicite:0]{index=0}
+**Ahmedabad‑Live** is a web-based complaint management system that enables users to lodge complaints and track their status. The system is developed with a focus on simplicity and urban relevance.
 
 ---
 
