@@ -3,7 +3,7 @@
 class createCon  {
     var $host = 'localhost';
     var $user = 'root';
-    var $pass = '';
+    var $pass = 'root123';
     var $db = 'ahmdlive';
     var $myconn;
 
