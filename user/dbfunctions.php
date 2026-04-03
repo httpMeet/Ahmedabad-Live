@@ -5,10 +5,11 @@ class createCon  {
     var $user = 'root';
     var $pass = 'root123'; // ✅ EMPTY for XAMPP
     var $db = 'ahmdlive';
+    var $port = '3307';
     var $myconn;
 
     function connect() {
-        $con = mysqli_connect($this->host, $this->user, $this->pass, $this->db);
+        $con = mysqli_connect($this->host, $this->user, $this->pass, $this->db, $this->port);
 
         if (!$con) {
             die('Could not connect to database! ' . mysqli_connect_error());
