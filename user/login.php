@@ -104,7 +104,7 @@
                                     <input class="simple-field" type="Email" required="" placeholder="Enter Email Address" name="email-login" value="" />
 									
 									<label>Password</label>
-                                    <input class="simple-field" type="password" required="" placeholder="enter your password" value=""
+                                    <input class="simple-field" type="password" required="" placeholder="Enter your password" value=""
 								    name="pwd" />
 
                                     
